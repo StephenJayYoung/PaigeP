@@ -1,0 +1,11 @@
+label {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #555;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
