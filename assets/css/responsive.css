@@ -35,7 +35,13 @@
 
 
 @media (max-width: 767px) {
-
+.c-content-contact-1 > .row .c-body {
+    position: relative;
+    z-index: 100;
+    background: red;
+    margin: 40px 0;
+    padding: 60px 40px;
+}
 
 
 }
