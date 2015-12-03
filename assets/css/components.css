@@ -4330,7 +4330,7 @@ h1 {
   /* 767px */
   .c-layout-revo-slider-3 .c-main-title-1 {
     padding: 10px;
-    font-size: 14px;
+    font-size: 17px;
     line-height: 18px;
     margin-left: 70px; }
   .c-layout-revo-slider-3 .c-action-btn {
@@ -4455,7 +4455,9 @@ h1 {
   padding: 40px 50px 40px 50px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   letter-spacing: 1px;
-  line-height: 76px; }
+  line-height: 76px;
+  font-size: 22px;
+   }
 
 .c-layout-revo-slider-8 .c-action-bar {
   position: relative;
@@ -7508,7 +7510,7 @@ h1 {
         color: #fff;
         padding: 4px 10px 2px 10px;
         font-weight: bold;
-        font-size: 20px;
+        font-size: 17px;
         text-transform: uppercase;
         display: inline-block;
         margin: 0 0 30px 0; }
@@ -8128,7 +8130,7 @@ h1 {
     padding: 60px 40px; }
     .c-content-contact-1 > .row .c-body > .c-section {
       margin-bottom: 15px;
-      text-align: right; }
+      text-align: center; }
       .c-content-contact-1 > .row .c-body > .c-section > h3 {
         font-size: 30px;
         color: #3f444a;

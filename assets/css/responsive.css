@@ -35,12 +35,25 @@
 
 
 @media (max-width: 767px) {
-.c-content-contact-1 > .row .c-body {
-    position: relative;
-    z-index: 100;
-    background: red;
-    margin: 40px 0;
-    padding: 60px 40px;
+  .c-main-title {
+    font-size: 25px;
+    line-height: 10px; }
+  .c-layout-revo-slider-1 .c-action-btn.btn,
+  .c-layout-revo-slider-1 .c-action-btn.btn.c-btn-border-2x.c-btn-uppercase.btn-lg {
+    margin-top: 20px;
+    padding: 7px 22px 5px 22px;
+    font-size: 14px; } }
+
+.c-layout-revo-slider-3 .c-main-title-1 {
+  line-height: 34px;
+  display: inline-block;
+  padding: 40px; }
+
+.c-layout-revo-slider-3 .c-main-title-2 {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 30px 50px;
+  letter-spacing: 1px;
+  line-height: 68px; }
 }
 
 
