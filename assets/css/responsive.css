@@ -26,7 +26,7 @@
 }
 
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 911px) and (max-width: 991px) {
 
 /*For header mobile responsiveness*/
 
@@ -85,13 +85,15 @@
     }
 
 	/*End for main header responsiveness*/
+}
+
+@media (min-width: 768px) and (max-width: 910px) {
 
 
 
 }
 
-
-@media (max-width: 767px) {
+@media (min-width: 481px) and (max-width: 767px) {
 
 	/*For header mobile responsiveness*/
 
@@ -150,5 +152,66 @@
     }
 
 	/*End for main header responsiveness*/
+
+   }
+
+   @media (max-width: 480px) {
+
+	/*For header mobile responsiveness*/
+
+	/*Header 1*/
+  .c-main-title {
+    font-size: 15px !important;
+    line-height: 10px; 
+    padding-left: 85px !important;
+    padding-bottom: 30px !important;
+  }
+
+    .c-sub-title {
+    font-size: 10px !important;	
+    line-height: 17px !important;
+    padding-left: 70px !important;
+    padding-top: 30px !important;
+    }
+
+     .c-sub-title b {
+    font-size: 12px !important;
+    }
+
+    .headerButton {
+    padding-left: 70px !important;
+    }
+
+    .headerButtonMobile {
+		line-height: 13px !important;
+    font-size: 10px !important;
+    }
+
+    /*Header 2*/
+	.c-main-title2 {
+    font-size: 23px !important;
+    line-height: 10px; 
+    padding-left: 130px !important;
+    padding-bottom: 50px !important;
+  }
+
+    .c-sub-title2 {
+    font-size: 16px !important;	
+    line-height: 17px !important;
+    padding-left: 75px !important;
+    }
+
+     .c-sub-title2 b {
+    font-size: 20px !important;
+    }
+
+    .headerButton2 {
+    padding-left: 75px !important;
+    }
+
+    .headerButtonMobile2 {
+		line-height: 13px !important;
+    font-size: 10px !important;
+    }
 
    }
