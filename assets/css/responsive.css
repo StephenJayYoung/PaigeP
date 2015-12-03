@@ -28,6 +28,63 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
 
+/*For header mobile responsiveness*/
+
+	/*Header 1*/
+  .c-main-title {
+    font-size: 23px !important;
+    line-height: 10px; 
+    padding-left: 50px !important;
+    padding-bottom: 10px !important;
+  }
+
+    .c-sub-title {
+    font-size: 16px !important;	
+    line-height: 17px !important;
+    padding-left: 80px !important;
+    }
+
+     .c-sub-title b {
+    font-size: 20px !important;
+    }
+
+    .headerButton {
+    padding-left: 80px !important;
+    }
+
+    .headerButtonMobile {
+		line-height: 13px !important;
+    font-size: 10px !important;
+    }
+
+    /*Header 2*/
+	.c-main-title2 {
+    font-size: 23px !important;
+    line-height: 10px; 
+    padding-left: 75px !important;
+    padding-bottom: 10px !important;
+  }
+
+    .c-sub-title2 {
+    font-size: 16px !important;	
+    line-height: 17px !important;
+    padding-left: 75px !important;
+    }
+
+     .c-sub-title2 b {
+    font-size: 20px !important;
+    }
+
+    .headerButton2 {
+    padding-left: 80px !important;
+    }
+
+    .headerButtonMobile2 {
+		line-height: 13px !important;
+    font-size: 10px !important;
+    }
+
+	/*End for main header responsiveness*/
 
 
 
