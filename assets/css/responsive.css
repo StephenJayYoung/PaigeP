@@ -35,6 +35,10 @@
 
 
 @media (max-width: 767px) {
+
+	/*For header mobile responsiveness*/
+
+	/*Header 1*/
   .c-main-title {
     font-size: 23px !important;
     line-height: 10px; 
@@ -48,6 +52,10 @@
     padding-left: 75px !important;
     }
 
+     .c-sub-title b {
+    font-size: 20px !important;
+    }
+
     .headerButton {
     padding-left: 75px !important;
     }
@@ -57,20 +65,33 @@
     font-size: 10px !important;
     }
 
+    /*Header 2*/
+	.c-main-title2 {
+    font-size: 23px !important;
+    line-height: 10px; 
+    padding-left: 130px !important;
+    padding-bottom: 50px !important;
+  }
+
+    .c-sub-title2 {
+    font-size: 16px !important;	
+    line-height: 17px !important;
+    padding-left: 75px !important;
+    }
+
+     .c-sub-title2 b {
+    font-size: 20px !important;
+    }
+
+    .headerButton2 {
+    padding-left: 75px !important;
+    }
+
+    .headerButtonMobile2 {
+		line-height: 13px !important;
+    font-size: 10px !important;
+    }
+
+	/*End for main header responsiveness*/
 
    }
-
-.c-layout-revo-slider-3 .c-main-title-1 {
-  line-height: 34px;
-  display: inline-block;
-  padding: 40px; }
-
-.c-layout-revo-slider-3 .c-main-title-2 {
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 30px 50px;
-  letter-spacing: 1px;
-  line-height: 68px; }
-}
-
-
-}
