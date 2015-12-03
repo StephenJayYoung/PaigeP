@@ -36,21 +36,25 @@
 
 @media (max-width: 767px) {
   .c-main-title {
-    font-size: 20px !important;
+    font-size: 23px !important;
     line-height: 10px; 
-    padding-left: 65px !important;
-    padding-bottom: 35px !important;
+    padding-left: 100px !important;
+    padding-bottom: 50px !important;
   }
 
     .c-sub-title {
     font-size: 16px !important;	
-    line-height: 15px !important;
+    line-height: 17px !important;
     padding-left: 75px !important;
     }
 
     .headerButton {
     padding-left: 75px !important;
+    }
 
+    .headerButtonMobile {
+		line-height: 13px !important;
+    font-size: 10px !important;
     }
 
 
