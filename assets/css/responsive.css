@@ -189,20 +189,21 @@
 
     /*Header 2*/
 	.c-main-title2 {
-    font-size: 23px !important;
+    font-size: 15px !important;
     line-height: 10px; 
-    padding-left: 130px !important;
-    padding-bottom: 50px !important;
+    padding-left: 95px !important;
+    padding-bottom: 30px !important;
   }
 
     .c-sub-title2 {
-    font-size: 16px !important;	
+   	font-size: 10px !important;	
     line-height: 17px !important;
-    padding-left: 75px !important;
+    padding-left: 40px !important;
+    padding-top: 30px !important;
     }
 
      .c-sub-title2 b {
-    font-size: 20px !important;
+    font-size: 12px !important;
     }
 
     .headerButton2 {
