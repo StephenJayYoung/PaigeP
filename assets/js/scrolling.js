@@ -1,4 +1,8 @@
-linkScroll: function(){
+
+
+var $ = jQuery.noConflict();
+
+		var linkScroll = function(){
 			$("a[data-scrollto]").click(function(){
 				var element = $(this),
 					divScrollToAnchor = element.attr('data-scrollto'),
@@ -27,26 +31,4 @@ linkScroll: function(){
 
 				return false;
 			});
-		},
-
-		extras: function(){
-			$('[data-toggle="tooltip"]').tooltip({container: 'body'});
-			$('#primary-menu-trigger,#overlay-menu-close').click(function() {
-				$( '#primary-menu > ul, #primary-menu > div > ul' ).toggleClass("show");
-				return false;
-			});
-			$('#page-submenu-trigger').click(function() {
-				$body.toggleClass('top-search-open', false);
-				$pagemenu.toggleClass("pagemenu-active");
-				return false;
-			});
-			$pagemenu.find('nav').click(function(e){
-				$body.toggleClass('top-search-open', false);
-				$topCart.toggleClass('top-cart-open', false);
-			});
-			if( SEMICOLON.isMobile.any() ){
-				$body.addClass('device-touch');
-			}
 		}
-
-
