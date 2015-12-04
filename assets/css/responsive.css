@@ -166,6 +166,8 @@
 
   .reviewsButton {
  	text-align: center !important;
+ 	font-size: 10px !important;
+ 	padding:5px 10px 4px 10px !important;
  }
 
 }
@@ -239,6 +241,8 @@
 
     .reviewsButton {
  		text-align: center !important;
+ 		font-size: 12px !important;
+ 		padding:5px 10px 4px 10px !important;
  }
 
  }
@@ -312,7 +316,9 @@
 		}
 
 		 .reviewsButton {
- 	text-align: center !important;
- }
+ 		text-align: center !important;
+ 		font-size: 12px !important;	
+ 		padding:5px 10px 4px 10px !important;
+ 		}
 
    }
