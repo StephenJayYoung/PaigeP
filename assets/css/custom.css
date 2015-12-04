@@ -1,6 +1,3 @@
-.newPatientsText {
-	padding-bottom: 20px;
-}
 
 /*Stuff for requesting an appointment*/
 section#appointment .form-group {
@@ -113,14 +110,7 @@ table {
   }
   /*End Stuff for styling the scheduling modal*/
 
-/*.navbar-custom {
-    background-color: #9ac5cd;
-}
-
-.c-navbar a{
-	 background-color: #9ac5cd;
-}*/
-
+	/*For aligining the contact info*/
   .c-content-contact-1 > .row .c-body > .c-section {
       margin-bottom: 15px;
       text-align: center; }
@@ -131,11 +121,37 @@ table {
   	color: #e7e7e7 !important;
   }
 
-.cbp-caption-activeWrap {
-	background-color: #6e8cd7;
-	opacity: .9;
-	color: #e7e7e7;
+	/*For the custom ajax pop up boxes color*/
+	.cbp-caption-activeWrap {
+		background-color: #6e8cd7;
+		opacity: .9;
+		color: #e7e7e7;
+	}
+
+	.newPatientsText {
+	padding-bottom: 20px;
 }
-                                   
+
+	/*padding for sections*/
+  #team {
+  	padding-top: 50px;
+  }
+
+  #specials {
+  	padding-top: 50px;
+  }
+
+  #reviews {
+  	padding-top: 50px;
+  }
+
+  #services {
+  	padding-top: 50px;
+  }
+
+  #forms {
+  	padding-top: 50px;
+  }
+
 
 
