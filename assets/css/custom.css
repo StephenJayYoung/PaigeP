@@ -28,10 +28,6 @@ section#appointment .form-group textarea.form-control {
 	padding-bottom: 60px
 }
 
-#team {
-	padding-top: 70px;
-}
-
 .pricingText {
 	font-size: 200px;
 }
@@ -136,7 +132,6 @@ table {
 	padding-bottom: 20px;
 }
 
-	/*padding for sections*/
   #team {
   	padding-top: 50px;
   }
@@ -157,8 +152,9 @@ table {
   	padding-top: 19px;
   }
 
-	/*End padding*/
+	/*End padding for sections*/
 
+	/*Padding for forms*/
 	.form2 {
 		padding-bottom: 65px !important;
 	}
