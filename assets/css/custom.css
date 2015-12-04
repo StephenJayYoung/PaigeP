@@ -131,6 +131,7 @@ table {
 		color: #e7e7e7;
 	}
 
+	/*Padding for sections*/
 	.newPatientsText {
 	padding-bottom: 20px;
 }
@@ -156,5 +157,13 @@ table {
   	padding-top: 19px;
   }
 
+	/*End padding*/
 
+	.form2 {
+		padding-bottom: 65px !important;
+	}
+
+	.form3 {
+		padding-bottom: 65px !important;
+	}
 
