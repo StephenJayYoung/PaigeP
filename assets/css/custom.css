@@ -121,6 +121,10 @@ table {
   	color: #e7e7e7 !important;
   }
 
+	.navbar-custom a:hover {
+	color: #4e73ce !important;
+	}
+
 	/*For the custom ajax pop up boxes color*/
 	.cbp-caption-activeWrap {
 		background-color: #6e8cd7;
