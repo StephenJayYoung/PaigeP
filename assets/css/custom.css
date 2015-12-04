@@ -125,11 +125,16 @@ table {
       margin-bottom: 15px;
       text-align: center; }
 
+	/*navbar custom color*/
   .navbar-custom {
   	background-color: #9ac5cd !important;
   }
 
-  .customColor {
-  	color: red !important;
-  }
+.cbp-caption-activeWrap {
+	background-color: #6e8cd7;
+	opacity: .9;
+	color: #e7e7e7;
+}
+                                   
+
 
