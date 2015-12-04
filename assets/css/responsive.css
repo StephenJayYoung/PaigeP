@@ -140,11 +140,33 @@
     }
 
 	/*End for main header responsiveness*/
+
+	 /*Footer stuff*/
+  .c-layout-footer-6 .c-prefooter {
+  padding: 35px 20px 40px;
+  margin-bottom: 40px;
+  text-align: center !important;
+ }
+
+ .reviewsButton {
+ 	text-align: center !important;
+ }
+
+
 }
 
 @media (min-width: 768px) and (max-width: 910px) {
 
+  /*Footer stuff*/
+  .c-layout-footer-6 .c-prefooter {
+  padding: 35px 20px 40px;
+  margin-bottom: 40px;
+  text-align: center !important;
+ }
 
+  .reviewsButton {
+ 	text-align: center !important;
+ }
 
 }
 
@@ -208,7 +230,18 @@
 
 	/*End for main header responsiveness*/
 
+	  /*Footer stuff*/
+    .c-layout-footer-6 .c-prefooter {
+    padding: 35px 20px 40px;
+    margin-bottom: 40px;
+    text-align: center !important;
    }
+
+    .reviewsButton {
+ 		text-align: center !important;
+ }
+
+ }
 
    @media (max-width: 480px) {
 
@@ -269,5 +302,17 @@
 		line-height: 13px !important;
     font-size: 10px !important;
     }
+    /*End header stuff*/
+
+    /*Footer stuff*/
+    .c-layout-footer-6 .c-prefooter {
+    padding: 35px 20px 40px;
+    margin-bottom: 40px;
+    text-align: center;
+		}
+
+		 .reviewsButton {
+ 	text-align: center !important;
+ }
 
    }
