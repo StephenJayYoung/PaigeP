@@ -124,3 +124,8 @@ table {
   .c-content-contact-1 > .row .c-body > .c-section {
       margin-bottom: 15px;
       text-align: center; }
+
+  .navbar-custom {
+  	background-color: #9ac5cd !important;
+  }
+
