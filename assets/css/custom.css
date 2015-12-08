@@ -162,4 +162,14 @@ table {
 	.form3 {
 		padding-bottom: 65px !important;
 	}
+	/*End padding for forms*/
+
+	/*Header Code*/
+	
+	.headerText1{
+	font-size: 50px;
+  letter-spacing: auto;
+  text-rendering: optimizeLegibility;
+	}
+
 
