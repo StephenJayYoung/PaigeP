@@ -140,9 +140,10 @@ table {
   	padding-top: 19px;
   }
 
-  #reviews {
-  	padding-top: 19px;
-  }
+
+  .reviewsBottomPadding {
+  padding-bottom: 0px !important;
+	}
 
   #services {
   	padding-top: 19px;
