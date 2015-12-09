@@ -153,6 +153,10 @@ table {
   	padding-top: 19px;
   }
 
+  #contact {
+  	padding-bottom: 0px !important;
+  }
+
 	/*End padding for sections*/
 
 	/*Padding for forms*/
