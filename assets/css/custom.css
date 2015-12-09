@@ -266,27 +266,28 @@ table {
 	/*header Text*/
 
 	.mainTitle {
-		font-size: 65px !important;
-		padding-left: 20px !important;
+		font-size: 60px !important;
+		padding-left: 30px !important;
+		padding-top: 60px;
 	}
 
 	.subtitleText{
-		padding-top: 70px !important;
 		font-size: 50px;
-		padding-left: 20px !important;
-		padding-right: 0px !important;
+		padding-left: 30px !important;
+		padding-top: 130px !important;
+		line-height: 20px;
 	}
 
 	.subtitleNumber {
-		font-size: 50px;
+		font-size: 55px;
 		font-weight: bold;
-		padding-left: 20px !important;
+		padding-left: 30px !important;
 	}
 
 	.subtitleTextExp {
-		padding-top: 50px;
-		font-size: 40px;
-		padding-left: 20px !important;
+		padding-top: 20px !important;
+		font-size: 45px;
+		padding-left: 30px !important;
 	}
 
 	.headerScheduleButton{
