@@ -243,7 +243,26 @@ table {
 	}
 
 	.specialsBox2 {
-		padding-bottom: 75px !important;
+		padding-bottom: 50px !important;
 	}
+
+	.specialsText {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+
+	.dCodes1{
+		font-size: 13px !important;
+	}
+
+	.dCodes2{
+		font-size: 13px !important;
+	}
+
+	.dCodes3{
+		font-size: 13px !important;
+	}
+
+
 
 
