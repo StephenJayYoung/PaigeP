@@ -179,11 +179,9 @@ table {
 
 	/** MEMBERS OVERRIDES */
 	section#members {
-		margin-top: 0;
-		padding-top: 30px;
-		margin-bottom: 0;
-		padding-bottom: 30px;
-		background-color: #F5FAEF;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		background-color: #f7f7f7;
 		border-bottom: 1px solid #e8e8e8;
 	}
 
@@ -192,8 +190,8 @@ table {
 	}
 
 	.pricing-box.pricing-extended .pricing-action-area {
-		background-color: #1ABC9C;
-		color: #ffffff;
+		background-color: #6e8cd7 !important;
+		color: #ffffff !important;
 		border-top-right-radius: 1em;
 		border-bottom-right-radius: 1em;
 	}
@@ -210,5 +208,14 @@ table {
 
 	.button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
 		background-color: #0e2b46 !important;
+	}
+
+	.memberButton {
+	padding: 0 26px; */
+  font-size: 16px;
+  height: 46px;
+  line-height: 46px;
+  text-transform: uppercase;
+  font-weight: 600;
 	}
 
