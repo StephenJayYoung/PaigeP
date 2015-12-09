@@ -263,6 +263,34 @@ table {
 		font-size: 13px !important;
 	}
 
+	/*header Text*/
 
+	.mainTitle {
+		font-size: 65px !important;
+		padding-left: 20px !important;
+	}
+
+	.subtitleText{
+		padding-top: 70px !important;
+		font-size: 50px;
+		padding-left: 20px !important;
+		padding-right: 0px !important;
+	}
+
+	.subtitleNumber {
+		font-size: 50px;
+		font-weight: bold;
+		padding-left: 20px !important;
+	}
+
+	.subtitleTextExp {
+		padding-top: 50px;
+		font-size: 40px;
+		padding-left: 20px !important;
+	}
+
+	.headerScheduleButton{
+
+	}
 
 
