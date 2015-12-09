@@ -177,3 +177,38 @@ table {
 	}
 
 
+	/** MEMBERS OVERRIDES */
+	section#members {
+		margin-top: 0;
+		padding-top: 30px;
+		margin-bottom: 0;
+		padding-bottom: 30px;
+		background-color: #F5FAEF;
+		border-bottom: 1px solid #e8e8e8;
+	}
+
+	.pricing-box {
+		border-radius: 1em;
+	}
+
+	.pricing-box.pricing-extended .pricing-action-area {
+		background-color: #1ABC9C;
+		color: #ffffff;
+		border-top-right-radius: 1em;
+		border-bottom-right-radius: 1em;
+	}
+
+	.pricing-box.pricing-extended .pricing-meta, .pricing-price, .pricing-price span, .pricing-box.pricing-extended .pricing-action-area .pricing-price span.price-tenure {
+		color: #ffffff;
+	}
+
+	#members a.button {
+		border-bottom: 3px solid rgba(0,0,0,0.15);
+		background-color: #34495E;
+		color: #ffffff;
+	}
+
+	.button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover {
+		background-color: #0e2b46 !important;
+	}
+
