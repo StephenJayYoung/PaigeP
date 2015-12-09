@@ -222,10 +222,17 @@ table {
 	/*restyling the team section*/
 	.c-content-tab-4.c-opt-5 > .nav > li:nth-child(even) > a {
     background-color: #9ac5cd;
+    border-radius: 20px;
+    margin: 3px;
 	}
 
 	.c-content-tab-4.c-opt-5 > .nav > li > a {
     color: #ffffff;
     background-color: #9ac5cd;
+    border-radius: 20px;
 	}
 
+	.tabPanelSpacing {
+		padding-left: 2px;
+		padding-right: 2px;
+	}
