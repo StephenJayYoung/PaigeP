@@ -219,3 +219,13 @@ table {
   font-weight: 600;
 	}
 
+	/*restyling the team section*/
+	.c-content-tab-4.c-opt-5 > .nav > li:nth-child(even) > a {
+    background-color: #9ac5cd;
+	}
+
+	.c-content-tab-4.c-opt-5 > .nav > li > a {
+    color: #ffffff;
+    background-color: #9ac5cd;
+	}
+
