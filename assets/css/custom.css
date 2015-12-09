@@ -236,3 +236,14 @@ table {
 		padding-left: 2px;
 		padding-right: 2px;
 	}
+
+	/*restyling specials boxes*/
+	.c-tile-small {
+		margin: 5px !important;
+	}
+
+	.specialsBox2 {
+		padding-bottom: 75px !important;
+	}
+
+
