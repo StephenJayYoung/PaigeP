@@ -88,6 +88,22 @@
         padding-left: 30px !important;
     }
 
+    #subtitleTextExp span{
+    font-size: 1em !important;
+    color: #ffffff !important;
+    padding-top: .3em;
+    padding-bottom: 1em;
+    display: block;
+    }
+
+    #subtitleTextExp1 span{
+    font-size: 1em !important;
+    color: #000000 !important;
+    padding-top: .3em;
+    padding-bottom: 1em;
+    display: block;
+    }
+
     }
 
    @media (max-width: 480px) {
@@ -121,11 +137,11 @@
     }
 
     #subtitleTextExp span{
-        font-size: 3em;
-        color: #ffffff;
-        padding-top: .3em;
-        padding-bottom: 1em;
-        display: block;
+    font-size: 1em !important;
+    color: #ffffff !important;
+    padding-top: .3em;
+    padding-bottom: 1em;
+    display: block;
     }
 
     #headerButton {
@@ -163,8 +179,8 @@
     }
 
     #subtitleTextExp1 span{
-    font-size: 3em;
-    color: #000000;
+    font-size: 1em !important;
+    color: #000000 !important;
     padding-top: .3em;
     padding-bottom: 1em;
     display: block;

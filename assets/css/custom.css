@@ -297,7 +297,7 @@ table {
 
     #subtitleTextExp span{
         font-size: 1.3em;
-        color: #ffffff;
+        color: #ffffff !important;
     }
 
 	#mainTitle1 {
