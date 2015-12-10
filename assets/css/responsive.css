@@ -5,255 +5,224 @@
 -----------------------------------------------------------------*/
 
 
-@media (max-width: 1199px) {
-/*Header 1*/
-  .c-main-title {
-    font-size: 23px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 10px !important;
-  }
-
-    .c-sub-title {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
-    }
-
-     .c-sub-title b {
-    font-size: 20px !important;
-    }
-
-    .headerButton {
-    padding-left: 50px !important;
-    }
-
-    .headerButtonMobile {
-		line-height: 13px !important;
-    font-size: 10px !important;
-    }
-
-    /*Header 2*/
-	.c-main-title2 {
-    font-size: 23px !important;
-    line-height: 10px;
-    padding-left: 50px !important;
-    padding-bottom: 10px !important;
-  }
-
-    .c-sub-title2 {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
-    }
-
-     .c-sub-title2 b {
-    font-size: 20px !important;
-    }
-
-    .headerButton2 {
-    padding-left: 50px !important;
-    }
-
-    .headerButtonMobile2 {
-		line-height: 13px !important;
-    font-size: 10px !important;
-    }
-
-	/*End for main header responsiveness*/
-}
-
-}
-
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
+.mainTitle {
+        font-size: 40px !important;
+        padding-left: 30px !important;
+        padding-top: 60px;
+    }
+
+    .subtitleText{
+        font-size: 50px;
+        padding-left: 30px !important;
+        padding-top: 130px !important;
+        line-height: 20px;
+    }
+
+    .subtitleNumber {
+        font-size: 55px;
+        font-weight: bold;
+        padding-left: 30px !important;
+    }
+
+    .subtitleTextExp {
+        padding-top: 20px !important;
+        font-size: 45px;
+        padding-left: 30px !important;
+    }
+
+    .headerScheduleButton{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
+    }
+
+
 
 
 }
-
-
-
-@media (max-width: 991px) {
-
-    .pricing-box.pricing-extended .pricing-desc, .pricing-box.pricing-extended .pricing-action-area {
-    position: relative;
-    float: none;
-    width: auto;
-    padding: 25px;
-    }
-
-    .pricing-box.pricing-extended .pricing-desc, .pricing-box.pricing-extended .pricing-action-area {
-    position: relative;
-    float: none;
-    width: auto;
-    padding: 25px;
-    }
 
 
 @media (min-width: 911px) and (max-width: 991px) {
 
 /*For header mobile responsiveness*/
 
-	/*Header 1*/
-  .c-main-title {
-    font-size: 23px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 10px !important;
-  }
-
-    .c-sub-title {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
+.mainTitle {
+        font-size: 40px !important;
+        padding-left: 30px !important;
+        padding-top: 60px;
     }
 
-     .c-sub-title b {
-    font-size: 20px !important;
+    .subtitleText{
+        font-size: 50px;
+        padding-left: 30px !important;
+        padding-top: 130px !important;
+        line-height: 20px;
     }
 
-    .headerButton {
-    padding-left: 50px !important;
+    .subtitleNumber {
+        font-size: 55px;
+        font-weight: bold;
+        padding-left: 30px !important;
     }
 
-    .headerButtonMobile {
-		line-height: 13px !important;
-    font-size: 10px !important;
+    .subtitleTextExp {
+        padding-top: 20px !important;
+        font-size: 45px;
+        padding-left: 30px !important;
     }
 
-    /*Header 2*/
-	.c-main-title2 {
-    font-size: 23px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 10px !important;
-  }
-
-    .c-sub-title2 {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
+    .headerScheduleButton{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
     }
-
-     .c-sub-title2 b {
-    font-size: 20px !important;
-    }
-
-    .headerButton2 {
-    padding-left: 50px !important;
-    }
-
-    .headerButtonMobile2 {
-		line-height: 13px !important;
-    font-size: 10px !important;
-    }
-
-	/*End for main header responsiveness*/
-
-	 /*Footer stuff*/
-  .c-layout-footer-6 .c-prefooter {
-  padding: 35px 20px 40px;
-  margin-bottom: 40px;
-  text-align: center !important;
- }
-
- .reviewsButton {
- 	text-align: center !important;
- }
 
 
 }
 
 @media (min-width: 768px) and (max-width: 910px) {
 
-  /*Footer stuff*/
-  .c-layout-footer-6 .c-prefooter {
-  padding: 35px 20px 40px;
-  margin-bottom: 40px;
-  text-align: center !important;
- }
+.mainTitle {
+        font-size: 40px !important;
+        padding-left: 30px !important;
+        padding-top: 60px;
+    }
 
-  .reviewsButton {
- 	text-align: center !important;
- 	font-size: 10px !important;
- 	padding:5px 10px 4px 10px !important;
- }
+    .subtitleText{
+        font-size: 50px;
+        padding-left: 30px !important;
+        padding-top: 130px !important;
+        line-height: 20px;
+    }
+
+    .subtitleNumber {
+        font-size: 55px;
+        font-weight: bold;
+        padding-left: 30px !important;
+    }
+
+    .subtitleTextExp {
+        padding-top: 20px !important;
+        font-size: 45px;
+        padding-left: 30px !important;
+    }
+
+    .headerScheduleButton{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
+    }
 
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
 
 	/*For header mobile responsiveness*/
-
-	/*Header 1*/
-  .c-main-title {
-    font-size: 23px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 50px !important;
-  }
-
-    .c-sub-title {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
+.mainTitle {
+        font-size: 35px !important;
+        padding-left: 30px !important;
+        padding-top: 60px;
     }
 
-     .c-sub-title b {
-    font-size: 20px !important;
+    .subtitleText{
+        font-size: 30px;
+        padding-left: 30px !important;
+        padding-top: 130px !important;
+        line-height: 20px;
     }
 
-    .headerButton {
-    padding-left: 50px !important;
+    .subtitleNumber {
+        font-size: 55px;
+        font-weight: bold;
+        padding-left: 30px !important;
     }
 
-    .headerButtonMobile {
-		line-height: 13px !important;
-    font-size: 10px !important;
+    .subtitleTextExp {
+        padding-top: 20px !important;
+        font-size: 45px;
+        padding-left: 30px !important;
     }
 
-    /*Header 2*/
-	.c-main-title2 {
-    font-size: 23px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 50px !important;
-  }
-
-    .c-sub-title2 {
-    font-size: 16px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
+    .headerScheduleButton{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
     }
-
-     .c-sub-title2 b {
-    font-size: 20px !important;
-    }
-
-    .headerButton2 {
-    padding-left: 50px !important;
-    }
-
-    .headerButtonMobile2 {
-		line-height: 13px !important;
-    font-size: 10px !important;
-    }
-
-	/*End for main header responsiveness*/
-
-	  /*Footer stuff*/
-    .c-layout-footer-6 .c-prefooter {
-    padding: 35px 20px 40px;
-    margin-bottom: 40px;
-    text-align: center !important;
-   }
-
-    .reviewsButton {
- 		text-align: center !important;
- 		font-size: 12px !important;
- 		padding:5px 10px 4px 10px !important;
- }
 
  }
 
@@ -261,63 +230,57 @@
 
 	/*For header mobile responsiveness*/
 
-	/*Header 1*/
-  .c-main-title {
-    font-size: 15px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 30px !important;
-  }
-
-    .c-sub-title {
-    font-size: 10px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
-    padding-top: 30px !important;
+    .mainTitle {
+        font-size: 25px !important;
+        padding-left: 30px !important;
+        padding-top: 60px;
     }
 
-     .c-sub-title b {
-    font-size: 12px !important;
+    .subtitleText{
+        font-size: 50px;
+        padding-left: 30px !important;
+        padding-top: 130px !important;
+        line-height: 20px;
     }
 
-    .headerButton {
-    padding-left: 50px !important;
+    .subtitleNumber {
+        font-size: 55px;
+        font-weight: bold;
+        padding-left: 30px !important;
     }
 
-    .headerButtonMobile {
-		line-height: 13px !important;
-    font-size: 10px !important;
+    .subtitleTextExp {
+        padding-top: 20px !important;
+        font-size: 45px;
+        padding-left: 30px !important;
     }
 
-    /*Header 2*/
-	.c-main-title2 {
-    font-size: 15px !important;
-    line-height: 10px; 
-    padding-left: 50px !important;
-    padding-bottom: 30px !important;
-  }
-
-    .c-sub-title2 {
-   	font-size: 12px !important;	
-    line-height: 17px !important;
-    padding-left: 50px !important;
-    padding-top: 25px !important;
+    .headerScheduleButton{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
     }
 
-    .c-sub-title2 b {
-    font-size: 12px !important;
-    }
 
-    .headerButton2 {
-    padding-left: 50px !important;
     }
-
-    .headerButtonMobile2 {
-		line-height: 13px !important;
-    font-size: 10px !important;
-    }
-    /*End header stuff*/
-
     /*Footer stuff*/
     .c-layout-footer-6 .c-prefooter {
     padding: 35px 20px 40px;
@@ -325,10 +288,10 @@
     text-align: center;
 		}
 
-		 .reviewsButton {
- 		text-align: center !important;
- 		font-size: 12px !important;	
- 		padding:5px 10px 4px 10px !important;
- 		}
+	 .reviewsButton {
+		text-align: center !important;
+		font-size: 12px !important;	
+		padding:5px 10px 4px 10px !important;
+		}
 
    }
