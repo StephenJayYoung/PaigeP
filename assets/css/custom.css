@@ -1,5 +1,5 @@
 
-/*Stuff for requesting an appointment*/
+/*Style for requesting an appointment*/
 section#appointment .form-group {
     margin-bottom: 20px;
 }
@@ -21,8 +21,6 @@ section#appointment .form-group textarea.form-control {
 	padding-top: 60px;
 }
 
-/*End stuff for requesting an appointment*/
-
 /*Adjusting padding */
 .c-main-title{
 	padding-bottom: 60px
@@ -32,7 +30,7 @@ section#appointment .form-group textarea.form-control {
 	font-size: 200px;
 }
 
-/*Stuff for modal body*/
+/*Style for modal body*/
 .modal-body a {
 	float: right;
 	margin: 0 0 1em 1em;
@@ -86,13 +84,12 @@ table {
 	#email-field {
 		display: none;
 	}
-	/*End stuff for modal body*/
 
 	.drPic{
 		padding-bottom: 15px;
 	}
 
-/* Stuff for Styling the scheduling modal*/
+/* Style for Styling the scheduling modal*/
 	label {
     display: inline-block;
     font-size: 13px;
@@ -104,9 +101,8 @@ table {
     margin-bottom: 10px;
     cursor: pointer;
   }
-  /*End Stuff for styling the scheduling modal*/
 
-	/*For aligining the contact info*/
+	/*Style for aligining the contact info*/
   .c-content-contact-1 > .row .c-body > .c-section {
       margin-bottom: 15px;
       text-align: center; }
@@ -118,13 +114,6 @@ table {
 
 	.navbar-custom a:hover {
 	color: #4e73ce !important;
-	}
-
-	/*For the custom ajax pop up boxes color*/
-	.cbp-caption-activeWrap {
-		background-color: #6e8cd7;
-		opacity: .9;
-		color: #e7e7e7;
 	}
 
 	/*Padding for sections*/
@@ -156,25 +145,16 @@ table {
   .bottomFooter {
   	padding-top: 40px;
   }
-	/*End padding for sections*/
 
 	/*Padding for forms*/
 	.form2 {
-		/*padding-bottom: 65px !important;*/
 	}
 
 	.form3 {
-/*		padding-bottom: 65px !important;*/
 	}
 	/*End padding for forms*/
 
 	/*Header Code*/
-	
-	.headerText1{
-	font-size: 50px;
-  letter-spacing: auto;
-  text-rendering: optimizeLegibility;
-	}
 
 
 	/** MEMBERS OVERRIDES */
@@ -263,8 +243,7 @@ table {
 		font-size: 13px !important;
 	}
 
-	/*header Text*/
-
+	/*Style for header text*/
 	#mainTitle {
 		font-size: 5em !important;
 		padding-left: 30px !important;
@@ -295,10 +274,10 @@ table {
 		color: #ffffff !important;
 	}
 
-    #subtitleTextExp span{
-        font-size: 1.3em;
-        color: #ffffff !important;
-    }
+  #subtitleTextExp span{
+      font-size: 1.3em;
+      color: #ffffff !important;
+  }
 
 	#mainTitle1 {
 		font-size: 5em !important;
@@ -330,10 +309,10 @@ table {
 		color: #000000 !important;
 	}
 
-    #subtitleTextExp1 span{
-      font-size: 1.3em;
-      color: #000000;
-    }
+  #subtitleTextExp1 span{
+    font-size: 1.3em;
+    color: #000000;
+  }
 
 	#headerButton {
 	background-color: #d36c66;
@@ -344,9 +323,9 @@ table {
 	border: 0px solid;
 	}
 
-#headerButton:hover {
-	background-color: #4e73ce;
-}
+	#headerButton:hover {
+		background-color: #4e73ce;
+	}
 
 
 	/*Footer Icons*/
