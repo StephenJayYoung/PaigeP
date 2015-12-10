@@ -49,21 +49,29 @@
         font-size: 12px;
     }
 
+        #subtitleText{
+        font-size: 2.5em !important;
+        padding-left: 30px !important;
+        padding-top: 6.3em !important;
+        line-height: 20px;
+        padding-top: 5em;
+    }
+
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
 
 	/*For header mobile responsiveness*/
     #mainTitle {
-    font-size: 3em !important;
+    font-size: 4em !important;
     padding-left: 30px !important;
     padding-top: 60px;
     }
 
-    #subtitleText{
+        #subtitleText{
         font-size: 2.5em !important;
         padding-left: 30px !important;
-        padding-top: 4em !important;
+        padding-top: 6.6em !important;
         line-height: 20px;
         padding-top: 5em;
     }
