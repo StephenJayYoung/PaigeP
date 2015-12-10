@@ -295,6 +295,11 @@ table {
 		color: #ffffff !important;
 	}
 
+    #subtitleTextExp span{
+        font-size: 1.3em;
+        color: #ffffff;
+    }
+
 	#mainTitle1 {
 		font-size: 5em !important;
 		padding-left: 30px !important;
@@ -324,6 +329,11 @@ table {
 		padding-bottom: 30px;
 		color: #000000 !important;
 	}
+
+    #subtitleTextExp1 span{
+      font-size: 1.3em;
+      color: #000000;
+    }
 
 	#headerButton {
 	background-color: #d36c66;
