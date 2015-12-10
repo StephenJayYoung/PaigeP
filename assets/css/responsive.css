@@ -76,9 +76,19 @@
 
 @media (max-width: 991px) {
 
+    .pricing-box.pricing-extended .pricing-desc, .pricing-box.pricing-extended .pricing-action-area {
+    position: relative;
+    float: none;
+    width: auto;
+    padding: 25px;
+    }
 
-
-}
+    .pricing-box.pricing-extended .pricing-desc, .pricing-box.pricing-extended .pricing-action-area {
+    position: relative;
+    float: none;
+    width: auto;
+    padding: 25px;
+    }
 
 
 @media (min-width: 911px) and (max-width: 991px) {
