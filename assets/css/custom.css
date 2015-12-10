@@ -291,7 +291,27 @@ table {
 	}
 
 	.headerScheduleButton{
-
-	}
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    margin: 5px;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;
+    color: #ffffff !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    border-bottom: 3px solid rgba(0,0,0,0.15);
+    width: 340px;
+    text-align: center;
+    font-size: 28px !important;
+    padding: 0 22px;
+}
 
 
