@@ -204,53 +204,31 @@
 @media (min-width: 481px) and (max-width: 767px) {
 
 	/*For header mobile responsiveness*/
-.mainTitle {
-        font-size: 35px !important;
+        #mainTitle {
+        font-size: 3em !important;
         padding-left: 30px !important;
         padding-top: 60px;
     }
 
-    .subtitleText{
+    #subtitleText{
         font-size: 30px;
         padding-left: 30px !important;
         padding-top: 130px !important;
         line-height: 20px;
     }
 
-    .subtitleNumber {
+    #subtitleNumber {
         font-size: 55px;
         font-weight: bold;
         padding-left: 30px !important;
     }
 
-    .subtitleTextExp {
+    #subtitleTextExp {
         padding-top: 20px !important;
         font-size: 45px;
         padding-left: 30px !important;
     }
 
-    .headerScheduleButton{
-    display: inline-block;
-    position: relative;
-    cursor: pointer;
-    outline: none;
-    white-space: nowrap;
-    margin: 5px;
-    height: 40px;
-    line-height: 40px;
-    background-color: white;
-    color: #ffffff !important;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    border: none;
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
-    border-radius: 3px;
-    border-bottom: 3px solid rgba(0,0,0,0.15);
-    width: 340px;
-    text-align: center;
-    font-size: 28px !important;
-    padding: 0 22px;
     }
 
  }
@@ -259,8 +237,8 @@
 
 	/*For header mobile responsiveness*/
 
-    .mainTitle {
-        font-size: 4.5em !important;
+    #mainTitle {
+        font-size: 3em !important;
         padding-left: 30px !important;
         padding-top: 60px;
     }
@@ -284,6 +262,31 @@
         padding-left: 30px !important;
     }
 
+    #mainTitle1 {
+    font-size: 4.5em !important;
+    padding-left: 30px !important;
+    padding-top: 60px;
+    }
+
+    #subtitleText1{
+        font-size: 5em;
+        padding-left: 30px !important;
+        line-height: 20px;
+    }
+
+    #subtitleNumber1 {
+        font-size: 5em;
+        font-weight: bold;
+        color: #ffffff;
+        padding-left: 30px !important;
+    }
+
+    #subtitleTextExp1 {
+        font-size: 4.5em;
+        color: #ffffff;
+        padding-left: 30px !important;
+    }
+
     #headerButton {
     background-color: #d36c66;
     padding: 20px;
@@ -291,8 +294,7 @@
     font-size: 1.5em;
     color: #ffffff;
     border: 0px solid;
-
-}
+    }
 
     }
     /*Footer stuff*/
