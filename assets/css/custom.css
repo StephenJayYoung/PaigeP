@@ -269,6 +269,7 @@ table {
 		font-size: 55px !important;
 		padding-left: 30px !important;
 		padding-top: 60px;
+		color: #ffffff !important;
 	}
 
 	.subtitleText{
@@ -276,12 +277,14 @@ table {
 		padding-left: 30px !important;
 		padding-top: 130px !important;
 		line-height: 20px;
+		color: #ffffff !important;
 	}
 
 	.subtitleNumber {
 		font-size: 55px;
 		font-weight: bold;
 		padding-left: 30px !important;
+		color: #ffffff !important;
 	}
 
 	.subtitleTextExp {
@@ -289,6 +292,37 @@ table {
 		font-size: 45px;
 		padding-left: 30px !important;
 		padding-bottom: 30px;
+		color: #ffffff !important;
+	}
+
+		.mainTitle2 {
+		font-size: 55px !important;
+		padding-left: 30px !important;
+		padding-top: 60px;
+		color: #000000 !important;
+	}
+
+	.subtitleText2{
+		font-size: 50px;
+		padding-left: 30px !important;
+		padding-top: 130px !important;
+		line-height: 20px;
+		color: #000000 !important;
+	}
+
+	.subtitleNumber2 {
+		font-size: 55px;
+		font-weight: bold;
+		padding-left: 30px !important;
+		color: #000000 !important;
+	}
+
+	.subtitleTextExp2 {
+		padding-top: 20px !important;
+		font-size: 45px;
+		padding-left: 30px !important;
+		padding-bottom: 30px;
+		color: #000000 !important;
 	}
 
 	.headerScheduleButton{
