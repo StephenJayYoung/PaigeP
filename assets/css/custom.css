@@ -275,7 +275,7 @@ table {
 	#subtitleText{
 		font-size: 3em;
 		padding-left: 30px !important;
-		padding-top: 5.4em !important;
+		padding-top: 5.5em !important;
 		line-height: 20px;
 		color: #ffffff !important;
 	}
@@ -339,7 +339,6 @@ table {
 	background-color: #4e73ce;
 }
 
-	}
 
 	/*Footer Icons*/
 	.socicon-facebook {
