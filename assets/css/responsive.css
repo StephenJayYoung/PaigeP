@@ -68,12 +68,12 @@
     padding-top: 60px;
     }
 
-        #subtitleText{
-        font-size: 2.5em !important;
-        padding-left: 30px !important;
-        padding-top: 6.6em !important;
-        line-height: 20px;
-        padding-top: 5em;
+    #subtitleText{
+    font-size: 2.5em !important;
+    padding-left: 30px !important;
+    padding-top: 6.6em !important;
+    line-height: 20px;
+    padding-top: 5em;
     }
 
     #subtitleNumber {
@@ -90,23 +90,21 @@
 
     }
 
- }
-
    @media (max-width: 480px) {
 
 	/*For header mobile responsiveness*/
 
     #mainTitle {
-        font-size: 3em !important;
+        font-size: 6em !important;
         padding-left: 30px !important;
         padding-top: 60px;
     }
 
     #subtitleText{
-        font-size: 5em;
+        font-size: 4em;
         padding-left: 30px !important;
         line-height: 20px;
-        padding-top: 9em !important;
+        padding-top: 5.3em !important;
     }
 
     #subtitleNumber {
@@ -122,22 +120,39 @@
         padding-left: 30px !important;
     }
 
+    #subtitleTextExp span{
+        font-size: 3em;
+        color: #ffffff;
+        padding-top: .3em;
+        padding-bottom: 1em;
+        display: block;
+    }
+
+    #headerButton {
+    background-color: #d36c66;
+    padding: 1em !important;
+    margin-left: 30px !important;
+    font-size: 2.5em !important;
+    color: #ffffff;
+    border: 0px solid;
+    }
+
     #mainTitle1 {
-    font-size: 4.5em !important;
+    font-size: 6em !important;
     padding-left: 30px !important;
     padding-top: 60px;
     }
 
     #subtitleText1{
-        font-size: 5em;
+        font-size: 4em;
         padding-left: 30px !important;
         line-height: 20px;
+        padding-top: 5.3em !important;
     }
 
     #subtitleNumber1 {
         font-size: 5em;
         font-weight: bold;
-        color: #ffffff;
         padding-left: 30px !important;
     }
 
@@ -145,6 +160,14 @@
         font-size: 4.5em;
         color: #ffffff;
         padding-left: 30px !important;
+    }
+
+    #subtitleTextExp1 span{
+    font-size: 3em;
+    color: #000000;
+    padding-top: .3em;
+    padding-bottom: 1em;
+    display: block;
     }
 
     #headerButton {

@@ -332,8 +332,7 @@ table {
 	font-size: 1.5em;
 	color: #ffffff;
 	border: 0px solid;
-
-}
+	}
 
 #headerButton:hover {
 	background-color: #4e73ce;
