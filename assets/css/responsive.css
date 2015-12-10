@@ -15,7 +15,7 @@
     }
 
     .subtitleText{
-        font-size: 50px;
+        font-size: 30px;
         padding-left: 30px !important;
         padding-top: 130px !important;
         line-height: 20px;
@@ -188,7 +188,7 @@
     padding: 0 22px;
     }
 
-    
+
     .c-content-tab-4 > .nav > li > a {
         font-weight: 600;
         padding: 20px 15px;
@@ -260,13 +260,13 @@
 	/*For header mobile responsiveness*/
 
     .mainTitle {
-        font-size: 25px !important;
+        font-size: 4.5em !important;
         padding-left: 30px !important;
         padding-top: 60px;
     }
 
-    .subtitleText{
-        font-size: 50px;
+    #subtitleText{
+        font-size: 3.5em;
         padding-left: 30px !important;
         padding-top: 130px !important;
         line-height: 20px;

@@ -272,7 +272,7 @@ table {
 		color: #ffffff !important;
 	}
 
-	.subtitleText{
+	#subtitleText{
 		font-size: 50px;
 		padding-left: 30px !important;
 		padding-top: 130px !important;
@@ -325,7 +325,7 @@ table {
 		color: #000000 !important;
 	}
 
-	.headerScheduleButton{
+	.headerButton{
     display: inline-block;
     cursor: pointer;
     outline: none;
@@ -333,8 +333,6 @@ table {
     margin: 5px;
     height: 40px;
     line-height: 40px;
-    background-color: white;
-    color: #ffffff !important;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -345,8 +343,23 @@ table {
     width: 300px;
     text-align: center;
     font-size: 28px !important;
-    /*padding: 0 22px;*/
+    color: #ffffff !important;
+    background: #d36c66;
+
 	}
+
+	button.scheduling
+{
+	color: #f0f0f0;
+	background: #d36c66;
+	padding-left: 30px;
+}
+
+button.scheduling:hover
+{
+	background-color: #ff0c00;
+	color: #ffffff;
+}
 
 
 	/*Footer Icons*/
@@ -359,4 +372,18 @@ table {
 		background-color: #dd4b39;
 		color: #ffffff;
 	}
+
+#headerButton {
+	background-color: #d36c66;
+	padding: 30px;
+	margin-left: 38px;
+	font-size: 1.5em;
+	color: #ffffff;
+	border: 0px solid;
+
+}
+
+#headerButton:hover {
+	background-color: #5e9cd1;
+}
 
