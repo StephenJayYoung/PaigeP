@@ -62,9 +62,9 @@
 
 @media (min-width: 481px) and (max-width: 767px) {
 
-	/*For header mobile responsiveness*/
+    /*For header mobile responsiveness*/
     #mainTitle {
-    font-size: 4em !important;
+    font-size: 6em !important;
     padding-left: 30px !important;
     padding-top: 60px;
     }
@@ -98,6 +98,12 @@
     margin-left: 30px !important;
     font-size: 2.5em !important;
     border: 0px solid;*/
+    }
+
+    #mainTitle1 {
+    font-size: 6em !important;
+    padding-left: 30px !important;
+    padding-top: 60px;
     }
 
     #subtitleText1{
@@ -145,11 +151,14 @@
 
 	/*For header mobile responsiveness*/
 
+    .tp-banner {
+        background-image: url('assets/img/testimonials_bkgd.jpg');
+    }
+
+
     #headerImage {
     display: block;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    float: center;
+    right: 200px;
     }
 
     #mainTitle {
