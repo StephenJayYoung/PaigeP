@@ -145,11 +145,9 @@
     }
 
     #headerButton {
-    background-color: #d36c66;
     padding: 1em !important;
     margin-left: 30px !important;
     font-size: 2.5em !important;
-    color: #ffffff;
     border: 0px solid;
     }
 
@@ -187,11 +185,9 @@
     }
 
     #headerButton {
-    background-color: #d36c66;
     padding: 20px;
     margin-left: 30px;
     font-size: 1.5em;
-    color: #ffffff;
     border: 0px solid;
     }
 
