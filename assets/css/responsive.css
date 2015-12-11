@@ -111,10 +111,16 @@
 
 	/*For header mobile responsiveness*/
 
+    #headerImage {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    }
+
     #mainTitle {
         font-size: 7em !important;
         padding-left: 20px !important;
-        padding-top: 4em;
+        padding-top: 1em;
     }
 
     #subtitleText{
@@ -160,7 +166,7 @@
     #mainTitle1 {
     font-size: 7em !important;
     padding-left: 20px !important;
-    padding-top: 2em;
+    padding-top: 1em;
     }
 
     #subtitleText1{
