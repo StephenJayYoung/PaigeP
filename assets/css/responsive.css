@@ -63,6 +63,13 @@
 @media (min-width: 481px) and (max-width: 767px) {
 
     /*For header mobile responsiveness*/
+
+    #headerImage {
+    vertical-align: middle !important;
+    max-width: 100%;
+    height: auto;
+    }
+
     #mainTitle {
     font-size: 6em !important;
     padding-left: 30px !important;
@@ -150,10 +157,9 @@
    @media (max-width: 480px) {
 
 	/*For header mobile responsiveness*/
-
-    #headerImage {
-    display: block;
-    right: 200px;
+    
+    #forMobile{
+    background-image: url(assets/img/backgrounds/bg-1);
     }
 
     #mainTitle {
@@ -204,8 +210,10 @@
 
     #mainTitle1 {
     font-size: 7em !important;
-    padding-left: 20px !important;
-    padding-top: .7em;
+  /*  padding-left: 1em; !important;*/
+    padding-top: 7.3em;
+    color: #ffffff !important;
+    text-align: center !important;
     }
 
     #subtitleText1{
