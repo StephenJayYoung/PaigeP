@@ -314,7 +314,7 @@ table {
 	#headerButton {
 	background-color: #6e8cd7;
 	padding: 30px;
-	margin-left: 52px;
+	margin-left: 38px !important;
 	font-size: 1.5em;
 	color: #ffffff;
 	border: 0px solid;
