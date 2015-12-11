@@ -37,6 +37,7 @@
 
 }
 
+
 @media (min-width: 768px) and (max-width: 910px) {
 
     .c-content-tab-4 > .nav > li > a {
@@ -111,84 +112,94 @@
 	/*For header mobile responsiveness*/
 
     #mainTitle {
-        font-size: 6em !important;
-        padding-left: 30px !important;
-        padding-top: 60px;
+        font-size: 7em !important;
+        padding-left: 20px !important;
+        padding-top: 4em;
     }
 
     #subtitleText{
-        font-size: 4em;
+        display: none !important;
+      /*  font-size: 4em;
         padding-left: 30px !important;
         line-height: 20px;
-        padding-top: 5.3em !important;
+        padding-top: 5.3em !important;*/
     }
 
     #subtitleNumber {
-        font-size: 5em;
+        display: none !important;
+        /*font-size: 5em;
         font-weight: bold;
         color: #ffffff;
-        padding-left: 30px !important;
+        padding-left: 30px !important;*/
     }
 
     #subtitleTextExp {
-        font-size: 4.5em;
+        display: none !important;
+       /* font-size: 4.5em;
         color: #ffffff;
-        padding-left: 30px !important;
+        padding-left: 30px !important;*/
     }
 
     #subtitleTextExp span{
-    font-size: 1em !important;
+    display: none !important;
+  /*  font-size: 1em !important;
     color: #ffffff !important;
     padding-top: .3em;
     padding-bottom: 1em;
-    display: block;
+    display: block;*/
     }
 
     #headerButton {
-    padding: 1em !important;
+    display: none !important;
+/*    padding: 1em !important;
     margin-left: 30px !important;
     font-size: 2.5em !important;
-    border: 0px solid;
+    border: 0px solid;*/
     }
 
     #mainTitle1 {
-    font-size: 6em !important;
-    padding-left: 30px !important;
-    padding-top: 60px;
+    font-size: 7em !important;
+    padding-left: 20px !important;
+    padding-top: 2em;
     }
 
     #subtitleText1{
-    font-size: 4em;
+    display: none !important;
+  /*  font-size: 4em;
     padding-left: 30px !important;
     line-height: 20px;
-    padding-top: 5.3em !important;
+    padding-top: 5.3em !important;*/
     }
 
     #subtitleNumber1 {
-    font-size: 5em;
+    display: none !important;
+ /*   font-size: 5em;
     font-weight: bold;
-    padding-left: 30px !important;
+    padding-left: 30px !important;*/
     }
 
     #subtitleTextExp1 {
-    font-size: 4.5em;
+    display: none !important;
+/*    font-size: 4.5em;
     color: #ffffff;
-    padding-left: 30px !important;
+    padding-left: 30px !important;*/
     }
 
     #subtitleTextExp1 span{
-    font-size: 1em !important;
+    display: none !important;
+/*    font-size: 1em !important;
     color: #000000 !important;
     padding-top: .3em;
     padding-bottom: 1em;
-    display: block;
+    display: block;*/
     }
 
     #headerButton {
-    padding: 20px;
+    display: none !important;
+/*    padding: 20px;
     margin-left: 30px;
     font-size: 1.5em;
-    border: 0px solid;
+    border: 0px solid;*/
     }
 
    }

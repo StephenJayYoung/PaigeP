@@ -335,6 +335,7 @@ table {
 		color: #ffffff;
 	}
 
+	/*Changing text color on team bio's, contact, reviews*/
 	#bioText {
 		color: #000000;
 	}
@@ -347,5 +348,32 @@ table {
 		color: black !important;
 	}
 
+	/*Mobile Actions*/
 
+	#mobile-actions .btn {
+	    -webkit-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
+	       -moz-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
+	         -o-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
+	            transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
+	}
+
+	#mobile-actions .hotline, #mobile-actions .phone-number {
+	    color: #ffffff;
+	}
+
+	#mobile-actions .hotline {
+	    margin-top: 15px;
+	}
+
+  #mobile-actions .hotline a, #mobile-actions .phone-number a {
+      display: block;
+  }
+
+  #mobile-actions .hotline a {
+      font-size: 1.7em;
+  }
+
+  #mobile-actions .hotline a:hover, #mobile-actions .phone-number a:hover {
+      color: inherit;
+  }
 
