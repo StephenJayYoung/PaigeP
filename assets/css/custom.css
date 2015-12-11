@@ -315,7 +315,7 @@ table {
   }
 
 	#headerButton {
-	background-color: #d36c66;
+	background-color: #6e8cd7;
 	padding: 30px;
 	margin-left: 38px;
 	font-size: 1.5em;
@@ -327,6 +327,15 @@ table {
 		background-color: #4e73ce;
 	}
 
+	#ctaButton {
+		background-color: #6e8cd7 !important;
+		border: 0px solid !important;
+	}
+
+	#ctaButton:hover {
+		background-color: #4e73ce;
+		border: 0px solid;
+	}
 
 	/*Footer Icons*/
 	.socicon-facebook {
