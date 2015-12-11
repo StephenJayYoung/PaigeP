@@ -327,16 +327,6 @@ table {
 		background-color: #4e73ce;
 	}
 
-	#ctaButton {
-		background-color: #6e8cd7 !important;
-		border: 0px solid !important;
-	}
-
-	#ctaButton:hover {
-		background-color: #4e73ce;
-		border: 0px solid;
-	}
-
 	/*Footer Icons*/
 	.socicon-facebook {
 		background-color: #3b5998;
