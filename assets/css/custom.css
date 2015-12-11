@@ -358,7 +358,7 @@ table {
 	}
 
 	#mobile-actions .hotline, #mobile-actions .phone-number {
-	    color: #ffffff;
+	    color: #ffffff !important;
 	}
 
 	#mobile-actions .hotline {
@@ -367,6 +367,7 @@ table {
 
   #mobile-actions .hotline a, #mobile-actions .phone-number a {
       display: block;
+      color: #ffffff !important;
   }
 
   #mobile-actions .hotline a {
