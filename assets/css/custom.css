@@ -202,7 +202,6 @@ table {
 	/*restyling the team section*/
 	.c-content-tab-4.c-opt-5 > .nav > li:nth-child(even) > a {
     background-color: #9ac5cd;
-    margin: 3px;
 	}
 
 	.c-content-tab-4.c-opt-5 > .nav > li > a {
