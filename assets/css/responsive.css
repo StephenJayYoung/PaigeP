@@ -38,7 +38,7 @@
 }
 
 
-@media (min-width: 768px) and (max-width: 910px) {
+@media (min-width: 781px) and (max-width: 910px) {
 
     .c-content-tab-4 > .nav > li > a {
     font-weight: 600;
@@ -60,7 +60,92 @@
 
 }
 
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 651px) and (max-width: 780px) {
+    
+    #mainTitle {
+    padding-left: 20px !important;
+    font-size: 5.5em !important;
+    padding-top: 3.3em;
+    text-shadow: .4px .4px #000000;
+    color: white !important;
+    text-align: center
+    }
+
+    #mainTitle1 {
+    font-size: 6em !important;
+    padding-top: 3.8em;
+  /*  padding-left: 1em; !important;*/
+    color: white !important;
+    text-align: center !important;
+    text-shadow: .5px .5px #000000;
+    }
+
+ #subtitleText{
+    display: none !important;
+  /*  font-size: 2.5em !important;
+    padding-left: 30px !important;
+    padding-top: 6.6em !important;
+    line-height: 20px;
+    padding-top: 5em;*/
+    }
+
+    #subtitleNumber {
+    display: none !important;
+   /* font-size: 2.7em;
+    font-weight: bold;
+    padding-left: 30px !important;*/
+    }
+
+    #subtitleTextExp {
+    display: none !important;
+/*    padding-top: 20px !important;
+    font-size: 2.5em;
+    padding-left: 30px !important;*/
+    }
+
+    #subtitleText1{
+    display: none !important;
+  /*  font-size: 4em;
+    padding-left: 30px !important;
+    line-height: 20px;
+    padding-top: 5.3em !important;*/
+    }
+
+    #subtitleNumber1 {
+    display: none !important;
+ /*   font-size: 5em;
+    font-weight: bold;
+    padding-left: 30px !important;*/
+    }
+
+    #subtitleTextExp1 {
+    display: none !important;
+/*    font-size: 4.5em;
+    color: #ffffff;
+    padding-left: 30px !important;*/
+    }
+
+    #subtitleTextExp1 span{
+    display: none !important;
+/*    font-size: 1em !important;
+    color: #000000 !important;
+    padding-top: .3em;
+    padding-bottom: 1em;
+    display: block;*/
+    }
+
+    #headerButton {
+    display: none !important;
+/*    padding: 1em !important;
+    margin-left: 30px !important;
+    font-size: 2.5em !important;
+    border: 0px solid;*/
+    }
+
+}
+
+
+@media (min-width: 481px) and (max-width: 650px) {
 
     /*For header mobile responsiveness*/
 
@@ -71,9 +156,12 @@
     }
 
     #mainTitle {
-    font-size: 6em !important;
-    padding-left: 30px !important;
-    padding-top: 60px;
+    padding-left: 20px !important;
+    font-size: 9.1em !important;
+    padding-top: 3.5em;
+    text-shadow: .4px .4px #000000;
+    color: white !important;
+    text-align: center
     }
 
     #subtitleText{
@@ -108,9 +196,12 @@
     }
 
     #mainTitle1 {
-    font-size: 6em !important;
-    padding-left: 30px !important;
-    padding-top: 60px;
+    font-size: 8.9em !important;
+    padding-top: 3.5em;
+  /*  padding-left: 1em; !important;*/
+    color: white !important;
+    text-align: center !important;
+    text-shadow: .5px .5px #000000;
     }
 
     #subtitleText1{
@@ -157,15 +248,14 @@
    @media (max-width: 480px) {
 
 	/*For header mobile responsiveness*/
-    
-    #forMobile{
-    background-image: url(assets/img/backgrounds/bg-1);
-    }
 
     #mainTitle {
-        font-size: 7em !important;
         padding-left: 20px !important;
-        padding-top: 1em;
+        font-size: 8.9em !important;
+        padding-top: 5.8em;
+        text-shadow: .4px .4px #000000;
+        color: white !important;
+        text-align: center !important;
     }
 
     #subtitleText{
@@ -209,11 +299,13 @@
     }
 
     #mainTitle1 {
-    font-size: 7em !important;
+    font-size: 8.6em !important;
+    padding-top: 6.1em;
   /*  padding-left: 1em; !important;*/
-    padding-top: 7.3em;
-    color: #ffffff !important;
+    color: white !important;
     text-align: center !important;
+    text-shadow: .5px .5px #000000;
+
     }
 
     #subtitleText1{
