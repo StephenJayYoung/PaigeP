@@ -350,6 +350,11 @@ table {
 
 	/*Mobile Actions*/
 
+	#mobile-header {
+		background-image:; url('assets/img/Slide1.jpg');
+	}
+
+
 	#mobile-actions .btn {
 	    -webkit-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
 	       -moz-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
