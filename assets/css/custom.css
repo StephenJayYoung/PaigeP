@@ -350,7 +350,7 @@ table {
 
 	/*Mobile Actions*/
 
-	#mobile-header {
+	.mobile-header {
 
     background-image: url(../assets/img/Slide1.jpg);
     background-repeat: none;
@@ -383,7 +383,6 @@ table {
     line-height: 50px;
     margin-bottom: 25px
 }
-	}
 
 
 	#mobile-actions .btn {
