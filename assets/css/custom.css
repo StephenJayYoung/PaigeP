@@ -271,11 +271,6 @@ table {
 		color: #ffffff !important;
 	}
 
-  #subtitleTextExp span{
-      font-size: 1.3em;
-      color: #ffffff !important;
-  }
-
 	#mainTitle1 {
 		font-size: 5em !important;
 		padding-left: 30px !important;
@@ -283,7 +278,7 @@ table {
 		color: #000000 !important;
 	}
 
-	#subtitleText1{
+	#subtitleTextOne{
 		font-size: 3em;
 		padding-left: 35px !important;
 		padding-top: 5.4em !important;
@@ -291,14 +286,14 @@ table {
 		color: #000000 !important;
 	}
 
-	#subtitleNumber1 {
+	#subtitleNumberOne {
 		font-size: 3.2em;
 		font-weight: bold;
 		padding-left: 35px !important;
 		color: #000000 !important;
 	}
 
-	#subtitleTextExp1 {
+	#subtitleTextExpOne {
 		padding-top: 20px !important;
 		font-size: 2.8em;
 		padding-left: 35px !important;
@@ -306,10 +301,6 @@ table {
 		color: #000000 !important;
 	}
 
-  #subtitleTextExp1 span{
-    font-size: 1.3em;
-    color: #000000;
-  }
 
 	#headerButton {
 	background-color: #6e8cd7;
