@@ -15,7 +15,7 @@
         overflow: hidden;
         white-space: nowrap;
         text-overflow: ellipsis;
-        font-size: 12px;
+        font-size: 17px;
     }
 
 
@@ -32,7 +32,7 @@
         overflow: hidden;
         white-space: nowrap;
         text-overflow: ellipsis;
-        font-size: 12px;
+        font-size: 15px;
     }
 
 }
@@ -41,14 +41,31 @@
 
 
 @media (min-width: 787px) and (max-width: 991px) {
-
+    
+    .c-content-tab-4 > .nav > li > a {
+        font-weight: 600;
+        padding: 13px 11px;
+        border: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 13px;
+    }
 
 
 }
 
 
 @media (min-width: 481px) and (max-width: 786px) {
-
+    .c-content-tab-4 > .nav > li > a {
+        font-weight: 600;
+        padding: 13px 12px;
+        border: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 12px;
+    }
 
     }
 
