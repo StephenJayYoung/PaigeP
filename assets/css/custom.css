@@ -313,11 +313,12 @@ table {
 
 	#headerButton {
 	background-color: #6e8cd7;
-	padding: 30px;
+	padding: 25px;
 	margin-left: 38px !important;
 	font-size: 1.5em;
 	color: #ffffff;
 	border: 0px solid;
+	margin-bottom: 20px;
 	}
 
 	#headerButton:hover {
@@ -378,7 +379,6 @@ table {
     margin-top: 3em;
     text-shadow: .4px .4px #000000;
 }
-
 
 	#mobile-actions .btn {
 	    -webkit-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
