@@ -1,65 +1,65 @@
 
 /*Style for requesting an appointment*/
-section#appointment .form-group {
-    margin-bottom: 20px;
-}
+	section#appointment .form-group {
+	    margin-bottom: 20px;
+	}
 
-section#appointment .form-group input,
-section#appointment .form-group textarea {
-    padding: 15px;
-}
+	section#appointment .form-group input,
+	section#appointment .form-group textarea {
+	    padding: 15px;
+	}
 
-section#appointment .form-group input.form-control {
-    height: auto;
-}
+	section#appointment .form-group input.form-control {
+	    height: auto;
+	}
 
-section#appointment .form-group textarea.form-control {
-    height: 245px;
-}
+	section#appointment .form-group textarea.form-control {
+	    height: 245px;
+	}
 
-#appointment {
-	padding-top: 60px;
-}
+	#appointment {
+		padding-top: 60px;
+	}
 
-/*Adjusting padding */
-.c-main-title{
-	padding-bottom: 60px
-}
+	/*Adjusting padding */
+	.c-main-title{
+		padding-bottom: 60px
+	}
 
-.pricingText {
-	font-size: 200px;
-}
+	.pricingText {
+		font-size: 200px;
+	}
 
-/*Style for modal body*/
-.modal-body a {
-	float: right;
-	margin: 0 0 1em 1em;
-	width: 50%;
-	max-width: 240px;
-	display: block;
-	text-align: center;
-	font-weight: bold;
-	color: inherit;
-}
+	/*Style for modal body*/
+	.modal-body a {
+		float: right;
+		margin: 0 0 1em 1em;
+		width: 50%;
+		max-width: 240px;
+		display: block;
+		text-align: center;
+		font-weight: bold;
+		color: inherit;
+	}
 
-.modal-body a img {
-	width: 100%;
-	max-width: 100%;
-	height: auto;
-	display: block;
-}
+	.modal-body a img {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+		display: block;
+	}
 
-.modal-body p a {
-	margin: 0;
-	text-align: inherit;
-	float: none;
-	width: auto;
-	display: inline;
-}
+	.modal-body p a {
+		margin: 0;
+		text-align: inherit;
+		float: none;
+		width: auto;
+		display: inline;
+	}
 
-table {
-	width: 100%;
-}
+	table {
+		width: 100%;
+	}
 
 	td, th {
 		padding: 5px;
@@ -157,7 +157,7 @@ table {
 	/*Header Code*/
 
 
-	/** MEMBERS OVERRIDES */
+	/** Members Overrides */
 	section#members {
 		padding-top: 40px;
 		padding-bottom: 40px;
@@ -240,7 +240,7 @@ table {
 		font-size: 13px !important;
 	}
 
-	/*Style for header text*/
+	/*Style for main header text*/
 	#mainTitle {
 		font-size: 5em !important;
 		padding-left: 30px !important;
@@ -340,10 +340,9 @@ table {
 		color: black !important;
 	}
 
-	/*Mobile Actions*/
+	/*Style Changes for Mobile Actions*/
 
 	#mobile-header {
-
     background-repeat: none;
     background-attachment: scroll;
     background-position: center right;
@@ -354,12 +353,12 @@ table {
     text-align: center;
   }
 
-.intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px
-}
+	.intro-text {
+	    padding-top: 100px;
+	    padding-bottom: 50px
+	}
 
-.intro-text .intro-heading {
+	.intro-text .intro-heading {
 		font-family: inherit;
 		text-transform: uppercase;
     font-weight: 800;
@@ -375,7 +374,7 @@ table {
     background-color:rgba(207,219,197,0.77);
     /*color: rgba(255, 255, 255, 0.08);*/
     /*text-shadow: .7px .7px #000000;*/
-}
+	}
 
 	#mobile-actions .btn {
 	    -webkit-transition: background 200ms ease-out, font 200ms ease-out, padding 200ms ease-out, margin 200ms ease-out;
